@@ -1,17 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-     <head>
-          <title>Erta-Home</title>
-              <style type="text/css">
-                h2 {background-color:black;
-                color:white;
-                }
-              </style>
-</head>
-   <body>
-      <h3 style="background-color:black; color:white" >
-         Text ini akan bewarna putih dan background warna hitam
-      </h3>
-   </body>
-</html>
+h1 {
+     color: red;
+}
